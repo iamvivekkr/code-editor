@@ -9,7 +9,7 @@ Code Editor is design for frontend developes. It provides online evironment wher
 
 Code Editor created by using :
 
-- React (Frontend framework)
+- ReactJs(Frontend framework)
 
 ---
 
